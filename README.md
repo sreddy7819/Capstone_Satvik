@@ -11,8 +11,7 @@ This repository contains the work for an NBA classification project. The goal of
    [Google Slides presentation](https://github.com/sreddy7819/Capstone_Satvik/blob/main/Reports/Future_NBA_Success.pdf) Powerpoint containing my findings and data analysis for the project
    
 # 2. Notebook
-   The notebook contains the data wrangling, data exploration, feature selection, and machine learning code that was used in this project. 
+   The [notebook](https://github.com/sreddy7819/Capstone_Satvik/blob/main/Notebook/Capstone2Newest.ipynb) contains the data wrangling, data exploration, feature selection, and machine learning code that was used in this project. 
    
-    [Notebook] (https://github.com/sreddy7819/Capstone_Satvik/blob/main/Notebook/Capstone2Newest.ipynb)
      
    

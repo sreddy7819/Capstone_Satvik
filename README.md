@@ -4,20 +4,14 @@ This repository contains the work for an NBA classification project. The goal of
 
 # Table of Contents
   
-# 1. Reports
+# 1. Docs
        
    Final Written Project
         
    Google Slides presentation
    
-# 2. Notebooks
-   Data Wrangling
-   
-   Data Exploration
-   
-   Feature Selection
-  
-   Machine Learning
+# 2. Notebook
+   The notebook contains the data wrangling, data exploration, feature selection, and machine learning code that was used in this project. 
    
    
      

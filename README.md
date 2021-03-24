@@ -13,6 +13,6 @@ This repository contains the work for an NBA classification project. The goal of
 # 2. Notebook
    The notebook contains the data wrangling, data exploration, feature selection, and machine learning code that was used in this project. 
    
-   
+    [Notebook] (https://github.com/sreddy7819/Capstone_Satvik/blob/main/Notebook/Capstone2Newest.ipynb)
      
    

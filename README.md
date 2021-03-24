@@ -4,7 +4,7 @@ This repository contains the work for an NBA classification project. The goal of
 
 # Table of Contents
   
-# 1. Docs
+# 1. Reports
        
    [Final Written Project](https://github.com/sreddy7819/Capstone_Satvik/blob/main/Reports/Satvik_Reddy_Capstone.pdf)
         
